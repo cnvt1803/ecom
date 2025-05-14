@@ -12,5 +12,3 @@ Username: username
 Passwoed: 123456
 Host: 5432
 DatabaseName: ecommerce_db
-
-Vì SENDGRID_API_KEY github k cho public nên em sẽ gởi bài thông qua link googledrive cho tiện sử dụng!
